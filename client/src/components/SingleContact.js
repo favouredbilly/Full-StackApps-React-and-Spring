@@ -10,7 +10,7 @@ const SingleContact = ({ item }) => (
           </span>
         </div>
         <div className="card-action">
-          <p>{item.emial}</p>
+          <p>{item.email}</p>
         </div>
       </div>
     </div>
